@@ -1,0 +1,3 @@
+[submodule "python-cryptocoincharts-api"]
+	path = python-cryptocoincharts-api
+	url = git@github.com:t0mj/python-cryptocoincharts-api.git
